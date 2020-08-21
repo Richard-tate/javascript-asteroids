@@ -1,0 +1,43 @@
+body{
+    background: #000;
+}
+#container {
+    max-width: 1800px;
+    margin: auto;
+}
+#my-canvas {
+    display: flex;
+    background: #000;
+    border: 1px solid #fff;
+    margin: 2em auto;
+    width: 1000px;
+    height: 700px;
+}
+
+.btn_start {
+    text-decoration: none;
+    position: absolute;
+    left: 46%;
+    background: #fff;
+    border-radius: 9px;
+    color: black;
+    font-size: 1.2em;
+    width: 40px;
+    height: 18px;
+    text-align: center;
+    padding: 4px 8px 10px 6px;
+}
+.btn_Restart{
+    text-decoration: none;
+    position: absolute;
+    background: #fff;
+    border-radius: 9px;
+    color: black;
+    font-size: 1.2em;
+    width: 45px;
+    height: 18px;
+    padding: 4px 20px 10px 10px;
+    text-align: center;
+    left: 52%; 
+}
+
